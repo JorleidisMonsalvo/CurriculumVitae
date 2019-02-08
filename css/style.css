@@ -514,6 +514,15 @@ button:focus,
 .form-control:active {
     box-shadow : none;
 }
+.navbar-nav li a{
+    color:white !important;
+    font-size: 2rem;
+}
+.navbar-default .navbar-brand{
+    color:white !important;
+    font-size: 2rem;
+    
+}
 
 /* --------------------------------------------
 *   Footer
@@ -540,6 +549,9 @@ button:focus,
     .footer {
         padding : 10px 20px;
     }
+}
+#barra{
+    background-color:  rgb(73,132,222,0.8) !important;
 }
 
 /* ====================
